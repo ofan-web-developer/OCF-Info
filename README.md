@@ -14,7 +14,7 @@ This core have been release with version since 2016 (v1) and now 2020 (v3), of c
 
 ## Source
 You can find our OFC source code here:
-- Link [OFC - OfanCoreFramework](https://github.com/ofan-web-developer/OFC-API)
+- Link [OFC - OfanCoreFramework](https://github.com/ofan-web-developer/OFC-API) (private access)
 
 Best Regards
 OFAN - 2020

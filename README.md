@@ -1,6 +1,6 @@
 # OFC-Info
-OFC a.k.a OfanCoreFramework is Rest API Framework with PHP Base, using traditional environment for interpreted by request HTTPX.
-This core have been release with version since 2016 (v1) and now 2020 (v3), of course this core have been used from 2019 in local platform.
+OFC a.k.a OfanCoreFramework is Rest API Framework with PHP Base, using traditional environment for interpreted by xHTTP Request.
+This core have been release with version since 2016 (v1) and now 2020 (v4), of course this core have been used from 2019 in local platform.
 
 ## Info Platform Used Core
 - KIOSDESA.COM (2019 - presents)
